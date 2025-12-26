@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajib!</h1>
 <h3 align="center">Passionate software developer skilled in System Architecture, Docker, Linux administration, and the Robotics Operating System (ROS). I thrive on exploring and contributing to innovative open-source projects.</h3>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAJIB3489&hide_progress=true&theme=dark" alt=SAJIB3489 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SAJIB3489&show_icons=true&locale=en&theme=dark" alt="SAJIB3489" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -22,3 +20,5 @@
 
 
 <div> <a href="https://www.linkedin.com/in/md-sajib-pramanic" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+[![Sajib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SAJIB3489&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
